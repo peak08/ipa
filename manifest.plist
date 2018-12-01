@@ -14,9 +14,9 @@
                         
 <!--                         <string>https://github.com/peak08/ipa/raw/master/Payload.ipa</string> -->
 
-<!--                         <string>https://172.20.10.6:10001/Payload.ipa</string>
- -->
-                                                <string>https://127.0.0.1:10001/Payload.ipa</string>
+                         <string>https://172.20.10.6:10001/Payload.ipa</string>
+ 
+<!--                                                 <string>https://127.0.0.1:10001/Payload.ipa</string> -->
 
                         
                     </dict>
